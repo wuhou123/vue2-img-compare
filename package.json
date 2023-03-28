@@ -1,6 +1,6 @@
 {
   "name": "vue2-img-compare",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "Simple, responsive, highly available image comparison component using vue.js 2.0",
   "homepage": "https://github.com/wuhou123/vue2-img-compare.git",
   "bugs": "https://github.com/wuhou123/vue2-img-compare/issues",
@@ -54,7 +54,6 @@
   },
   "browserslist": [
     "> 1%",
-    "last 2 versions",
-    "not dead"
+    "last 2 versions"
   ]
 }
