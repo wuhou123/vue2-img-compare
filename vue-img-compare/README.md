@@ -1,8 +1,12 @@
-# vue2-img-compare
+# vue2-img-compare 最简单功能强大的图片对比组件
+
+![demo img](https://i.ibb.co/h9CS6Q4/Video-2023-03-28-145152.gif)
 
 Currently, it is a version of vue 2.0. If you need a version of vue 3.0+TS or react, please refer to issues.
 
 Best Picture Comparison Component.
+
+强大而且简洁，vue3.0+TS版本和react版本需求有了再改版吧
 
 ## Installation
 
@@ -69,4 +73,4 @@ Example:
 
 ## License
 
-[MIT](/LICENSE)
+[MIT](./LICENSE)

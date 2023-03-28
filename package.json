@@ -1,13 +1,23 @@
 {
-  "name": "vue-img-compare",
-  "version": "0.1.0",
-  "description": "Simple, responsive, highly available image comparison component using vue.js",
+  "name": "vue2-img-compare",
+  "version": "0.0.6",
+  "description": "Simple, responsive, highly available image comparison component using vue.js 2.0",
+  "main": "index.common.js",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
-    "package": "vue-cli-service build --target lib ./src/package/index.js --name index --dest vue-img-compare&&cp -fr ./src/package/LICENSE ./src/package/README.md ./vue-img-compare&&cp -fr ./src/components/package.json ./vue-img-compare"
+    "package": "vue-cli-service build --target lib ./src/package/index.js --name index --dest vue-img-compare&&cp -fr ./LICENSE ./README.md ./vue-img-compare&&cp -fr ./package.json ./vue-img-compare"
   },
+  "keywords": [
+    "vue",
+    "image",
+    "compare",
+    "comparison",
+    "slider",
+    "component"
+  ],
+  "author": "975694783@qq.com",
   "dependencies": {
     "core-js": "^3.8.3",
     "vue": "^2.6.14"
