@@ -1,6 +1,7 @@
 # vue2-img-compare 最简单功能强大的图片对比组件
 
-![demo img](https://i.ibb.co/h9CS6Q4/Video-2023-03-28-145152.gif)
+
+![demo img](https://raw.githubusercontent.com/wuhou123/vue2-img-compare/master/src/assets/video.gif)
 
 Currently, it is a version of vue 2.0. If you need a version of vue 3.0+TS or react, please refer to issues.
 
